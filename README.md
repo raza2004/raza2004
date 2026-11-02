@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Owais Raza</h1>
-<h3 align="center">Full Stack AI Engineer, open to onsite, hybrid and remote work and relocation</h3>
+<h3 align="center">Full Stack AI Engineer, open to onsite, hybrid, remote work and relocation</h3>
 
 <p align="center">
   <a href="https://owais-raza-portfolio.vercel.app"><b>Portfolio</b></a> ·
