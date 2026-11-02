@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Owais Raza</h1>
-<h3 align="center">Full Stack AI Engineer from Karachi, open to remote work and relocation</h3>
+<h3 align="center">Full Stack AI Engineer, open to onsite, hybrid, remote work and relocation</h3>
 
 <p align="center">
   <a href="https://owais-raza-portfolio.vercel.app"><b>Portfolio</b></a> ·
@@ -9,6 +9,8 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=raza2004&label=Profile%20views&color=0b6e4f&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/raza2004?style=flat&label=Followers&color=0b6e4f" alt="Followers" />
+  <img src="https://img.shields.io/badge/Open%20to-onsite%2C%20hybrid%20and%20remote-0b6e4f?style=flat" alt="Open to onsite, hybrid and remote work" />
 </p>
 
 I build web products from the database to the interface, and I add AI features where they really help the user. Most of my days go into React, Next.js, Node.js and TypeScript, with Python and C# on the backend. I use Claude Code every day to move faster, and I read and test every change before it ships.
@@ -30,25 +32,58 @@ I build web products from the database to the interface, and I add AI features w
 
 ## Tech stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,angular,tailwind,html,css,sass,bootstrap&theme=dark" alt="Frontend" /><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,fastapi,cs,dotnet,graphql&theme=dark" alt="Backend" /><br/>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,docker,aws,git,github,bitbucket,jira&theme=dark" alt="Data and tools" />
+<table>
+  <tr>
+    <td width="150"><b>FRONTEND</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind,bootstrap,sass,html,css,ts,js&theme=dark" alt="Frontend" /><br/>
+      <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+      <img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>BACKEND</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,fastapi,cs,dotnet,graphql&theme=dark" alt="Backend" /><br/>
+      <img src="https://img.shields.io/badge/REST%20APIs-0b6e4f?style=for-the-badge" alt="REST APIs" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>DATABASES</b></td>
+    <td><img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql&theme=dark" alt="Databases" /></td>
+  </tr>
+  <tr>
+    <td><b>CLOUD AND DEVOPS</b></td>
+    <td><img src="https://skillicons.dev/icons?i=aws,docker&theme=dark" alt="Cloud and DevOps" /></td>
+  </tr>
+  <tr>
+    <td><b>TOOLS AND TESTING</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git,github,bitbucket,jira&theme=dark" alt="Tools" /><br/>
+      <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
+      <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>MACHINE LEARNING</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+    </td>
+  </tr>
+</table>
+
+## GitHub activity
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/0b6e4f/raza2004" alt="Contribution chart" width="100%" />
 </p>
 
-## GitHub stats
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=raza2004&show_icons=true&theme=transparent&hide_border=true&title_color=0b6e4f&icon_color=0b6e4f" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raza2004&layout=compact&theme=transparent&hide_border=true&title_color=0b6e4f" alt="Top languages" />
-</p>
-
-<p>
-  <img src="https://streak-stats.demolab.com?user=raza2004&theme=transparent&hide_border=true&ring=0b6e4f&fire=0b6e4f&currStreakLabel=0b6e4f" alt="GitHub streak" />
-</p>
-
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=raza2004&theme=flat&no-frame=true&row=1&column=6" alt="GitHub trophies" />
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raza2004/raza2004/output/github-snake-dark.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/raza2004/raza2004/output/github-snake.svg" />
+  </picture>
 </p>
 
 ## Let's connect
